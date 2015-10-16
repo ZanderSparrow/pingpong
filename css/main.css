@@ -8,7 +8,8 @@ ul {
 
 li {
   font-size: 1.2em;
-  padding-top: 0.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
   color: #3d0099;
 }
 
@@ -18,4 +19,8 @@ li {
 
 #output {
   background-color: #ddd;
+}
+
+h1, p.lead {
+	margin-left: 10px;
 }

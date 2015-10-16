@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+}
+
+li {
+  font-size: 1.2em;
+  padding-top: 0.5em;
+  color: #3d0099;
+}
